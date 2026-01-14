@@ -1,0 +1,7 @@
+{
+  "name": "VayuLekha2",
+  "description": "An air-based expressive assistive platform enabling gesture-driven drawing for inclusive accessibility.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
